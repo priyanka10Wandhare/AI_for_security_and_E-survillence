@@ -1,2 +1,3 @@
 # helmet_mask_detection
-This repo is a 
+This repository can detect helmet and mask .
+
